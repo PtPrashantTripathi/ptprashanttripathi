@@ -29,7 +29,7 @@
 
 [![website](https://img.shields.io/badge/PortfolioW-ptprashanttripathi.github.io-2648ff?logo=google-chrome)](https://ptprashanttripathi.github.io/) ![counter](https://komarev.com/ghpvc/?username=ptprashanttripathi)
 
-<div style="width: 45%;float: left;">
+<div style="width:40%; float: left;">
 
 ### Talking about Personal Stuffs:
 
@@ -47,7 +47,7 @@
 
 </div>
 
-<div style="width: 45%;float: left;"> 
+<div style="width:40%; float: left;"> 
   
 ### Languages and Tools:
   
