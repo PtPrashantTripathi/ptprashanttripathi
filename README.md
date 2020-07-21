@@ -21,14 +21,13 @@
 <a href="https://dev.to/ptprashanttripathi" target="blank">
   <img align="left" alt="Prashant's Dev" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
 </a>
+<br>
 
 ### Glad to see you here! 🤩 &nbsp; 
 
 >I'm a final student pursuing Bachelors's in Computer Science 🎓 from RGPV University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-ptprashanttripathi.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ptprashanttripathi.github.io/)
-
-<img align="right" height="250" width="375" alt="pt. prashant tripathi instagram" src="https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/93807206_245908786606160_2646594371469705216_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=Pp83vyJD100AX88pLE4&oh=66f5e4eb3f3e2149d3839513129838a9&oe=5F40D923" />
 
 ### Talking about Personal Stuffs:
 
