@@ -27,19 +27,16 @@
 
 >I'm a final student pursuing Bachelors's in Computer Science 🎓 from RGPV University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-ptprashanttripathi.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ptprashanttripathi.github.io/)
-
-[![counter](https://komarev.com/ghpvc/?username=ptprashanttripathi)](https://ptprashanttripathi.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-ptprashanttripathi.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ptprashanttripathi.github.io/)![counter](https://komarev.com/ghpvc/?username=ptprashanttripathi)
 
 ### Talking about Personal Stuffs:
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ptprashanttripathi&show_icons=true" alt="ptprashanttripathi" /> 
 - 👨‍💻 Portfolio  [PtPrashantTripathi.github.io](https://PtPrashantTripathi.github.io)
 - 📫 How to reach me **ptprashanttripathi@outlook.com**
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - ⚡ Fun fact **Prefer Chai over coffee**
 - 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/PtPrashantTripathi/issues/1)! I am happy to help.
 - 📝 [Resume](https://github.com/ptprashanttripathi/PtPrashantTripathi.github.io/blob/master/resume.pdf)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ptprashanttripathi&show_icons=true" alt="ptprashanttripathi" /> 
 ### Languages and Tools:
 
 
