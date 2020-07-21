@@ -4,7 +4,6 @@
 [<img src = "https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ptprashanttripathi/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ptprashanttripathi) 
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ptprashanttripathi)  
-[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://ptprashanttripathi.github.io/)
 ![counter](https://komarev.com/ghpvc/?username=ptprashanttripathi)
 ![HitCount](http://hits.dwyl.com/ptprashanttripathi/ptprashanttripathigithubio.svg)
 ## Hello World! <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"></h2>
