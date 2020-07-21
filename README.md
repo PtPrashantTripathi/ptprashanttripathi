@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/ptprashant09">
   <img align="left" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,11 +21,11 @@
 <a href="https://www.hackerrank.com/ptprashanttripathi/">
   <img align="left" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
+*
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptprashanttripathi" alt="ptprashanttripathi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/PtPrashantTripathi](https://github.com/PtPrashantTripathi)
+- 👨‍💻 Portfolio  [PtPrashantTripathi.github.io](*https://PtPrashantTripathi.github.io)
 
 - 📫 How to reach me **ptprashanttripathi@outlook.com**
 
@@ -41,18 +41,10 @@
 <a href="https://fb.com/ptprashanttripathi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ptprashanttripathi" height="20" width="20" /></a>
 <a href="https://instagram.com/ptprashanttripathi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ptprashanttripathi" height="20" width="20" /></a>
 </p>
+#
 
-<!--
-**PtPrashantTripathi/PtPrashantTripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Show some ❤️ by starring some of the repositories!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
