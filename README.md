@@ -1,4 +1,4 @@
-<h3 align="center">A Dube 😜 developer from India</h3>
+<h3 align="center">A Dumb😜 developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptprashanttripathi" alt="ptprashanttripathi" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/PtPrashantTripathi](https://github.com/PtPrashantTripathi)
