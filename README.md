@@ -1,4 +1,28 @@
-<h3 align="center">A Dumb😜 developer from India</h3>
+## Hello World! <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/gifs/Hi.gif" width="30px"></h2>
+
+<a href="https://twitter.com/ptprashant09">
+  <img align="left" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/ptprashanttripathi">
+  <img align="left" alt="Prashant's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ptprashanttripathi">
+  <img align="left" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/ptprashanttripathi">
+  <img align="left" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/ptprashanttripathi/">
+  <img align="left" alt="Prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ptprashanttripathi/">
+  <img align="left" alt="Prashant's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.hackerrank.com/ptprashanttripathi/">
+  <img align="left" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptprashanttripathi" alt="ptprashanttripathi" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/PtPrashantTripathi](https://github.com/PtPrashantTripathi)
