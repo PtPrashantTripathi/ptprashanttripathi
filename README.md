@@ -21,7 +21,6 @@
 
 - 📝 [Resume](https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/blob/master/PtPrashantTripathi-CV.pdf)
 
-- 📫 How to reach me **ptprashanttripathi@outlook.com**
 
 - 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/PtPrashantTripathi/issues/1)! I am happy to help.
 
@@ -29,35 +28,35 @@
 
   
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=FFA518)&nbsp;
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=FFA518)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
