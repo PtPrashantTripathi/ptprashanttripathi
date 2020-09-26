@@ -10,17 +10,21 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"></h2>
 ### Glad to see you here! 🤩 &nbsp; 
 
->I am recent engineering graduate🎓 looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+>I am recent engineering graduate🎓 looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with DevOps tools and looking forward to Share and Gain knowledgeable stuff☘️.
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 Portfolio  [PtPrashantTripathi.github.io](https://PtPrashantTripathi.github.io)
+- 👨‍🎓 Experience Level: 6+ years
 
-- 👨💻 I’m currently learning Full Stack Development 🚀.
+- 💻 I’m currently learning Full Stack Development 🚀.
+
+- 🧩 Interested in: Technology, Android, spaceX, Web Development and Machine Learning.
+
+- 💡 Equipments: Sarcasm, Knowledge, C, PHP, HTML, CSS, Linux, Broken Heart and Python!
 
 - ⚡ Fun fact **Prefer Chai over coffee**
 
 - 📝 [Resume](https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/blob/master/PtPrashantTripathi-CV.pdf)
-
 
 - 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/PtPrashantTripathi/issues/1)! I am happy to help.
 
