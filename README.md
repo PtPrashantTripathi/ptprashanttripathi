@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **Prefer Chai over coffee**
 
-- 📝 [Resume](https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/blob/master/PtPrashantTripathi-CV.pdf)
+- 📝 [Resume](https://drive.google.com/file/d/1D22RXko74BNot1__6HloRHRdAXXDk39h/view?usp=sharing)
 
 - 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/PtPrashantTripathi/issues/1)! I am happy to help.
 
