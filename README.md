@@ -18,15 +18,15 @@
 
 - 💻 I’m currently learning Full Stack Development 🚀.
 
-- 🧩 Interested in: Technology, Android, spaceX, Web Development and Machine Learning.
+- 🧩 Interested in: Technology, Stock Market, spaceX, Anime and Machine Learning.
 
-- 💡 Equipments: Sarcasm, Knowledge, C, PHP, HTML, CSS, Linux, Broken Heart and Python!
+- 💡 Equipments: Sarcasm, Knowledge, C#, nodejs, .net, Python, PHP, webdev, vscde, Ubuntu!
 
 - ⚡ Fun fact **Prefer Chai over coffee**
 
 - 📝 [Resume](https://drive.google.com/file/d/1D22RXko74BNot1__6HloRHRdAXXDk39h/view?usp=sharing)
 
-- 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/PtPrashantTripathi/issues/1)! I am happy to help.
+- 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/ptprashanttripathi/discussions/3) ! I am happy to help.
 
 ### Languages and Tools:
 
@@ -38,7 +38,7 @@
 <a href="https://github.com/PtPrashantTripathi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PtPrashantTripathi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PtPrashantTripathi&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  <img height="180em" src="github-readme-streak-stats.herokuapp.svg"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ptprashanttripathi"/>
 </a>
 </p>
 
