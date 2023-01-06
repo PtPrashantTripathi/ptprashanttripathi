@@ -15,11 +15,16 @@
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 Portfolio  [ptprashanttripathi.github.io](https://PtPrashantTripathi.github.io)
+
 - 👨🎓 Experience Level : 6+ years
+
 - 💻 I’m Currently Watching : One piece 🚀
+
 - 🧩 Interested In : Technology, Astronomy, Space
+
 -💡 Equipments : Sarcasm, Knowledge, python, C, nodejs, PHP, webdev, Linux
--⚡ Fun Fact : ** Prefer Chai ☕  over coffee**
+
+-⚡ Fun Fact : **Prefer Chai ☕  over coffee**
 
 - 📝 [Resume](https://drive.google.com/file/d/1FK2yhifBlP0CtBjqm4ywZlkk7jz3bWg7/view?usp=drivesdk)
 
@@ -37,8 +42,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PtPrashantTripathi&layout=compact&exclude_lang=java+r&theme=vue-dark" />
   <img height="180em" src="github-readme-streak-stats.herokuapp.svg"/></a>
 </p>
-
-
 
 <div align="center">
 
