@@ -26,7 +26,7 @@
 
 -⚡ Fun Fact : **Prefer Chai ☕  over coffee**
 
-- 📝 [Resume](https://drive.google.com/file/d/1FK2yhifBlP0CtBjqm4ywZlkk7jz3bWg7/view?usp=drivesdk)
+- 📝 [Resume](https://drive.google.com/file/d/1J79L3laKdUfjyP44nHjJ6E50oFebs5if/view?usp=drivesdk)
 
 - 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/ptprashanttripathi/discussions/3) ! I am happy to help.
 
