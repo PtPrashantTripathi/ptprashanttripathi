@@ -28,7 +28,7 @@
 
 Music has a unique way of reflecting our personalities, your taste in music is the only way to truly understand a person.
 
-<img height="180em" src="PtPrashantTripathi_Spotify_Playlist.svg"/>
+[<img height="180em" src="PtPrashantTripathi_Spotify_Playlist.jpg"/>](https://open.spotify.com/playlist/5f5SQTudB6FFQbGVrbP67H?si=apFfSrlFTk2ehKrikD9ExA)
 
 ### Languages and Tools:
 
