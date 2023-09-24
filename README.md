@@ -1,4 +1,4 @@
-![banner](banner.jpg)
+![banner](banner.png)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ptprashant09)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ptprashanttripathi/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ptprashanttripathi/)
@@ -23,12 +23,6 @@
 - ⚡ Fun Fact : **Prefer Chai ☕ over coffee**
 - 📝 [Resume](https://drive.google.com/file/d/1J79L3laKdUfjyP44nHjJ6E50oFebs5if/view?usp=drivesdk)
 - 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/ptprashanttripathi/discussions/3) ! I am happy to help.
-
-### 🎶 Explore my Spotify playlist
-
-Music has a unique way of reflecting our personalities, your taste in music is the only way to truly understand a person.
-
-[<img src="PtPrashantTripathi_Spotify_Playlist.jpg"/>](https://open.spotify.com/playlist/5f5SQTudB6FFQbGVrbP67H?si=apFfSrlFTk2ehKrikD9ExA)
 
 ### Languages and Tools:
 
