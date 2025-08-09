@@ -4,8 +4,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ptprashanttripathi/)
 [<img src = "https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ptprashanttripathi/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ptprashanttripathi)
-[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ptprashanttripathi)  
-![counter](https://komarev.com/ghpvc/?username=ptprashanttripathi&style=flat-square)
+[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ptprashanttripathi)
 
 # Hey there! 👋 I'm Pt. Prashant Tripathi
 
@@ -138,5 +137,5 @@ I'm always excited to collaborate on interesting projects, especially in:
 <div align="center">
   <i>✨ "I love to explore new technologies and leverage them to solve real-life problems" ✨</i>
   
-  ![Visitor Count](https://profile-counter.glitch.me/PtPrashantTripathi/count.svg)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=ptprashanttripathi&style=for-the-badge)
 </div>
